@@ -2,10 +2,6 @@
 
 > **An intelligent, multilingual AI-powered campus information assistant that transforms how students interact with university services.**
 
-<p align="center">
-  <img src="./docs/assets/hero-banner.png" alt="Campus Assistant Bot Hero" width="100%" />
-</p>
-
 ---
 
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/Deepender25/Campus-Assistant-bot)
@@ -26,7 +22,6 @@
 - [Multi-Platform Support](#multi-platform-support)
 - [Admin Dashboard](#admin-dashboard)
 - [Screenshots](#screenshots)
-- [Demo](#demo)
 - [Roadmap](#roadmap)
 - [Contact](#contact)
 
@@ -52,9 +47,28 @@
 
 ### Intelligent Conversation Engine
 
-<p align="center">
-  <img src="./docs/assets/conversation-demo.gif" alt="Conversation Demo" width="80%" />
-</p>
+**Sample Conversation:**
+
+```
+Student: hi
+
+Campus Assistant: Hello! Welcome to Gurugram University. We're delighted 
+to have you join our vibrant academic community.
+
+Student: what is the admission process
+
+Campus Assistant: I apologize, but I do not have specific information 
+regarding the admission process. To get the most accurate and up-to-date 
+details, I recommend contacting the relevant campus admissions office 
+directly.
+
+Student: admission process kya h?
+
+Campus Assistant: Ji haan, main aapko admission process ke baare mein 
+detail mein bata sakta hun... Sabse accurate aur latest information ke 
+liye, main aapko suggest karunga ki aap directly Campus Admissions Office 
+se contact karein.
+```
 
 - **Context-Aware Responses**: Maintains conversation history for coherent multi-turn dialogues
 - **Natural Language Understanding**: Processes queries in natural, conversational language
@@ -238,10 +252,6 @@ journey
 
 ### AI & Machine Learning
 
-<p align="center">
-  <img src="./docs/assets/ai-pipeline.png" alt="AI Pipeline" width="90%" />
-</p>
-
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **LLM** | Google Gemini 1.5 | Natural language understanding & generation |
@@ -288,20 +298,12 @@ flowchart LR
 
 ### Web Application
 
-<p align="center">
-  <img src="./docs/assets/web-interface.png" alt="Web Interface" width="80%" />
-</p>
-
 - Responsive design for all devices
 - Modern, intuitive chat interface
 - Real-time message updates
 - Dark/Light theme support
 
 ### Telegram Bot
-
-<p align="center">
-  <img src="./docs/assets/telegram-bot.png" alt="Telegram Bot" width="50%" />
-</p>
 
 - Native Telegram integration
 - Inline buttons for quick actions
@@ -318,10 +320,16 @@ flowchart LR
 
 ## Admin Dashboard
 
+### Login Screen
+
+<p align="center">
+  <img width="1919" height="999" alt="login" src="https://github.com/user-attachments/assets/f3fef6d3-2802-48f3-a3a6-ae2284220f5d" />
+</p>
+
 ### Dashboard Overview
 
 <p align="center">
-  <img src="./docs/assets/dashboard-overview.png" alt="Dashboard Overview" width="100%" />
+  <img width="1919" height="992" alt="dashboard" src="https://github.com/user-attachments/assets/7d8a1c3c-4454-4a4c-ad0c-588bca8fa84f" />
 </p>
 
 ### Key Modules
@@ -353,40 +361,30 @@ flowchart TB
 
 ## Screenshots
 
+### Conversations
 <p align="center">
-  <i>Screenshots gallery - Add your application screenshots here</i>
+  <img width="1918" height="983" alt="conversations" src="https://github.com/user-attachments/assets/dcac1b08-7948-44a6-9277-8942bffdaeca" />
 </p>
 
-### Chat Interface
-![Chat Interface](./docs/assets/screenshots/chat-interface.png)
-
-### Admin Dashboard
-![Admin Dashboard](./docs/assets/screenshots/admin-dashboard.png)
-
-### Analytics View
-![Analytics](./docs/assets/screenshots/analytics.png)
+### Knowledge Base
+<p align="center">
+  <img width="1919" height="997" alt="knowledge-base" src="https://github.com/user-attachments/assets/59793fdf-e837-4b62-aee5-80bbe7afaa11" />
+</p>
 
 ### Document Upload
-![Document Upload](./docs/assets/screenshots/document-upload.png)
-
----
-
-## Demo
-
 <p align="center">
-  <a href="#">
-    <img src="./docs/assets/demo-thumbnail.png" alt="Watch Demo" width="60%" />
-    <br/>
-    <strong>Watch Product Demo</strong>
-  </a>
+  <img width="1919" height="985" alt="document-upload" src="https://github.com/user-attachments/assets/e50abbab-3211-4344-8028-0521739a67ac" />
 </p>
 
-### Quick Demo Scenarios
+### Analytics
+<p align="center">
+  <img width="1919" height="987" alt="analytics" src="https://github.com/user-attachments/assets/282b2818-429f-4a60-90e8-168bba826249" />
+</p>
 
-1. **Student Query Flow** - See how students get instant answers
-2. **Multilingual Conversation** - Watch seamless language switching
-3. **Admin Document Upload** - See how easy it is to update knowledge
-4. **Analytics Dashboard** - Explore the insights available
+### User Management
+<p align="center">
+  <img width="1919" height="997" alt="user-management" src="https://github.com/user-attachments/assets/fff6c86f-86fc-4dfb-a05e-159fe3d1174d" />
+</p>
 
 ---
 
@@ -438,14 +436,10 @@ We're always looking to improve! Planned enhancements include:
 
 ### Project Maintainer
 
-<p align="center">
-  <img src="./docs/assets/developer-avatar.png" alt="Developer" width="120" style="border-radius: 50%;" />
-</p>
-
 **Deepender Yadav**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Deepender25-181717?style=for-the-badge&logo=github)](https://github.com/Deepender25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deependeryadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepender25)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:yadavdeepender65@gmail.com)
 
 ### For Business Inquiries
@@ -453,7 +447,7 @@ We're always looking to improve! Planned enhancements include:
 Interested in implementing Campus Assistant Bot for your institution?
 
 - **Email**: yadavdeepender65@gmail.com
-- **Portfolio**: [Coming Soon]
+- **Portfolio**: https://deependerportfolio.vercel.app
 
 ---
 
